@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."  
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication"
+}
